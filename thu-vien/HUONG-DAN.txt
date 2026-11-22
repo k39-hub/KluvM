@@ -1,0 +1,7 @@
+THƯ VIỆN AN NHIÊN
+
+Mở index.html bằng trình duyệt để sử dụng. Không cần cài đặt thêm.
+
+Chức năng gồm tổng quan, quản lý sách và bạn đọc, lập phiếu mượn, nhận trả, phiếu quá hạn, thống kê và Cài đặt. Trong Cài đặt, bạn có thể chỉnh hồ sơ hiển thị, giao diện sáng/tối/theo thiết bị, trang mở đầu và thông báo; tải bản sao lưu JSON, nhập lại bản sao lưu hoặc khôi phục dữ liệu mẫu.
+
+Dữ liệu thư viện và cài đặt được lưu trên trình duyệt của thiết bị này. Nhập bản sao lưu và khôi phục dữ liệu mẫu sẽ thay thế dữ liệu hiện có sau khi xác nhận. Đây là bản web chạy độc lập trên một thiết bị, chưa kết nối máy chủ hay đồng bộ nhiều người dùng.
